@@ -20,7 +20,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.organization>Venkatasai1308</sonar.organization>
 		<sonar.projectKey>venkatasai1308</sonar.projectKey>
-		<sonar.projectName>java-test</sonar.projectName>
+		<sonar.projectName>java-test-sonarqube</sonar.projectName>
 	</properties>
 	<dependencies>
 	  <dependency>
