@@ -18,9 +18,9 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<sonar.organization>mandhasd</sonar.organization>
-		<sonar.projectKey>mandhasd</sonar.projectKey>
-		<sonar.projectName>sample</sonar.projectName>
+		<sonar.organization>Venkatasai1308</sonar.organization>
+		<sonar.projectKey>venkatasai1308</sonar.projectKey>
+		<sonar.projectName>java-test</sonar.projectName>
 	</properties>
 	<dependencies>
 	  <dependency>
