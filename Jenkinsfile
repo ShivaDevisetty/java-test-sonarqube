@@ -52,14 +52,12 @@ pipeline {
         // CD Started
 
        stage ('Deployments') {
-           parallel {
                
         stage('Deploy to Dev') {
             steps {
                 echo 'Build'
-            }
         }
-
+        }
         stage('Deploy to test ') {
             when {
                 branch 'main'
@@ -72,5 +70,4 @@ pipeline {
     }
         // CD Ended
 }
-    }
 }
