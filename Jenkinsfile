@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        function_name = 'java-test'
+        function_name = 'java-test-sonarqube'
     }   
     stages {
 
